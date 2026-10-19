@@ -1,0 +1,30 @@
+.objectives,
+.missions {
+  background-image: url(../img/Rectangle\ 41.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.visions {
+  background-image: url(../img/Rectangle\ 39.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.newletter-image {
+  background:
+    linear-gradient(rgba(6, 50, 49, 0.8), rgba(6, 50, 49, 0.8)),
+    url(../img/Rectangle\ 19.png);
+  min-height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 12px;
+}
+.main-section {
+  background:
+    linear-gradient(rgba(217, 96, 106, 0.3), rgba(217, 96, 106, 0.4)),
+    url(../img/back-header-back.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: clamp(320px, 55svh, 560px);
+}
+
